@@ -8,7 +8,32 @@ redirect_from:
 ---
 
 Hello!
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a postdoctoral research scientist at the University of Waterloo.
+My work falls into several areas, including
+high performance computing,
+machine learning,
+quantum chemistry,
+many-body physics,
+and quantum computing.
+My research interests are aimed at
+using numerical methods
+to perform classical simulations of quantum systems.
+
+I earned my PhD from the University of Waterloo in September 2024,
+where I was supervised by [Dr. Pierre Nicholas-Roy](https://uwaterloo.ca/chemistry/profile/pnroy).
+My research focused on performing quantum Monte Carlo simulations of solid parahydrogen
+using *ab initio* non-additive many-body potentials.
+I would calculate the interaction energies between groups of hydrogen molecules
+across thousands of jobs at once
+on HPC supercomputer clusters provided by ComputeCanada.
+Next I would use PyTorch to train neural networks that
+predict the many-body interaction energies for these hydrogen molecules.
+I would then perform path-integral Monte Carlo simulations of solid parahydrogen
+using these many-body potentials.
+The simulation code is written in modern C++20,
+and the aforementioned neural networks were ported into C++ using LibTorch.
+
+My current research is focused on quantum computing.
 
 A data-driven personal website
 ======
