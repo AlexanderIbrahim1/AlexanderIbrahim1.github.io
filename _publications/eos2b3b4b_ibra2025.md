@@ -3,7 +3,7 @@ title: "Path-integral Monte Carlo simulations of solid parahydrogen using two-bo
 collection: publications
 category: manuscripts
 permalink: 'https://pubs.aip.org/aip/jcp/article-abstract/162/16/164503/3344880/Path-integral-Monte-Carlo-simulations-of-solid?redirectedFrom=fulltext'
-excerpt: 'TODO: explain what this paper is about'
+excerpt: 'arxiv: https://arxiv.org/abs/2506.05557'
 date: 2025-04-22
 venue: '<i>Journal of Chemical Physics</i>'
 citation: "<b>A. Ibrahim</b> and P.-N. Roy, “Path-integral Monte Carlo simulations of solid parahydrogen using two-body, three-body, and four-body <i>ab initio</i> interaction potential energy surfaces”, <i>J. Chem. Phys.</i> <b>162</b>, 164503 (2025)."
