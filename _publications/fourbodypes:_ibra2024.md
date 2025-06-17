@@ -3,7 +3,7 @@ title: "A neural network-based four-body potential energy surface for parahydrog
 collection: publications
 category: manuscripts
 permalink: 'https://pubs.aip.org/aip/jcp/article-abstract/160/24/244308/3299301/A-neural-network-based-four-body-potential-energy?redirectedFrom=fulltext'
-excerpt: 'TODO: explain what this paper is about'
+excerpt: 'https://arxiv.org/abs/2506.05540'
 date: 2024-06-25
 venue: '<i>Journal of Chemical Physics</i>'
 citation: '<b>A. Ibrahim</b> and P.-N. Roy, “A neural network-based four-body potential energy surface for parahydrogen”, <i>J. Chem. Phys.</i> <b>160</b>, 244308 (2024).'

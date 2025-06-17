@@ -3,7 +3,7 @@ title: "Equation of state of solid parahydrogen using \textit{ab initio} two-bod
 collection: publications
 category: manuscripts
 permalink: https://pubs.aip.org/aip/jcp/article-abstract/157/17/174503/2842312/Equation-of-state-of-solid-parahydrogen-using-ab?redirectedFrom=fulltext
-excerpt: 'TODO: mention what this paper is about'
+excerpt: 'https://arxiv.org/abs/2506.03352'
 date: 2022-11-01
 venue: '<i>Journal of Chemical Physics</i>'
 citation: '<b>A. Ibrahim</b> and P.-N. Roy, “Equation of state of solid parahydrogen using <i>ab initio</i> two-body and three-body interaction potentials”, <i>J. Chem. Phys.</i> <b>157</b>, 174503 (2022).'

@@ -3,7 +3,7 @@ title: "Three-body potential energy surface for <i>para</i>-hydrogen"
 collection: publications
 category: manuscripts
 permalink: https://pubs.aip.org/aip/jcp/article-abstract/156/4/044301/2840705/Three-body-potential-energy-surface-for-para?redirectedFrom=fulltext
-excerpt: 'TODO: mention what this paper is about'
+excerpt: 'https://arxiv.org/abs/2506.03338'
 date: 2022-01-24
 venue: '<i>Journal of Chemical Physics</i>'
 citation: '<b>A. Ibrahim</b> and P.-N. Roy, “Three-body potential energy surface for <i>para</i>-hydrogen”, <i>J. Chem. Phys.</i> <b>156</b>, 044301 (2022).'

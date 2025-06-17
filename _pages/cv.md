@@ -9,4 +9,4 @@ redirect_from:
 
 [Full CV [PDF]](http://AlexanderIbrahim1.github.io/files/full_cv.pdf)
 
-[Resume targeted at research scientist [PDF]](http://AlexanderIbrahim1.github.io/files/quantum_resume.pdf)
+[Shorter resume targeted at research scientist [PDF]](http://AlexanderIbrahim1.github.io/files/quantum_resume.pdf)
