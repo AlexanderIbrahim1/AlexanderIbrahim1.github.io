@@ -1,5 +1,5 @@
 ---
-title: "Equation of state of solid parahydrogen using \textit{ab initio} two-body and three-body interaction potentials"
+title: "Equation of state of solid parahydrogen using <i>ab initio</i> two-body and three-body interaction potentials"
 collection: publications
 category: manuscripts
 permalink: https://pubs.aip.org/aip/jcp/article-abstract/157/17/174503/2842312/Equation-of-state-of-solid-parahydrogen-using-ab?redirectedFrom=fulltext
