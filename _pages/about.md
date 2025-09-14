@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+[Full CV [PDF]](http://AlexanderIbrahim1.github.io/files/research_scientist_cv_2025_09_13_nophonenumber.pdf)
+
 Hello!
 I am a postdoctoral research scientist at the University of Waterloo.
 My work falls into several areas, including
